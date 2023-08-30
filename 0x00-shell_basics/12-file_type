@@ -1,0 +1,2 @@
+#!/bon/bash
+file -f /tmp/iamfile
