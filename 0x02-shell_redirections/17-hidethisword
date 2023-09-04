@@ -1,0 +1,2 @@
+#!/bi/ash
+grep -v /etc/passwd
