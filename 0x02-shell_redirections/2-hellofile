@@ -1,3 +1,2 @@
 #!/bin/bash
-tar tzvf /ect/passwd.tar.gz | less
-
+cat /etc/passwd
